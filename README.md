@@ -78,7 +78,7 @@ LDA is a dimensionality reduction technique used to find the linear combination 
 
 
 
-<p align="center"><strong><span style="font-size: 50px;">TOGETHER WE GROW!</span></strong></p>
+<p align="center"><strong><span style="font-size: 500px;">TOGETHER WE GROW!</span></strong></p>
 
 
 
