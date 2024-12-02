@@ -5,7 +5,7 @@ This repository contains simple and actual implementations of various machine le
 ## I will be updating implementation of all the algorithms regularly. 
 ## Kindly do take a look and feel free to address any issues or modifications.
 
-## Algorithms Implemented
+# Algorithms Implemented
 
 ### 1. **Linear Regression**
 Linear regression is a fundamental algorithm in machine learning, used for predicting continuous values based on the linear relationship between input variables and the target variable. In this implementation, we calculate the parameters (slope and intercept) using the least squares method.
