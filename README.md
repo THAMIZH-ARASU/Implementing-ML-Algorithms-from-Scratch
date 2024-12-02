@@ -97,8 +97,6 @@ LDA is a dimensionality reduction technique used to find the linear combination 
    ```bash
    jupyter notebook LinearRegression.ipynb
    ```
-3. Follow the steps in the notebook to load, preprocess, and enhance your images.
-
 ---
 
 <p align="center">
