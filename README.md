@@ -12,7 +12,10 @@ Linear regression is a fundamental algorithm in machine learning, used for predi
 - **Worked Example**:
 
 
-<img src="images/linear_reg.png" alt="Linear Regression Image" align="center">
+<p align="center">
+  <img src="images/linear_reg.png" alt="Linear Regression Image">
+</p>
+
 
 
 ### 2. **Logistic Regression**
