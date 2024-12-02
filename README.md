@@ -86,6 +86,8 @@ LDA is a dimensionality reduction technique used to find the linear combination 
 - **File**: `LinearDiscriminantAnalysis.ipynb`
 - **Key Concepts**: Between-Class Variance, Within-Class Variance, Eigenvectors
 
+---
+
 ## Installation
 
 To run this notebook, ensure the following prerequisites are installed:
