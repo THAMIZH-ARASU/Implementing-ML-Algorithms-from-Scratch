@@ -8,7 +8,7 @@ This repository contains simple and actual implementations of various machine le
 Linear regression is a fundamental algorithm in machine learning, used for predicting continuous values based on the linear relationship between input variables and the target variable. In this implementation, we calculate the parameters (slope and intercept) using the least squares method.
 
 - **File**: `LinearRegression.ipynb`
-- **Key Concepts**: Gradient Descent, Least Squares, Model Fitting
+- **Key Concepts**: Approximation, Gradient Descent, Least Squares, Model Fitting
 
 ### 2. **Logistic Regression**
 Logistic regression is used for binary classification tasks. It models the probability of an event occurring based on input features. This implementation uses the sigmoid function to output probabilities.
