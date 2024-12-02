@@ -2,8 +2,8 @@
 
 This repository contains simple and actual implementations of various machine learning algorithms from scratch. The goal is to provide clear, understandable code and explanations for these fundamental algorithms, helping learners better understand how they work internally.
 
-### I will be updating implementation of all the algorithms regularly. 
-### Kindly do take a look and feel free to address any issues or modifications.
+## I will be updating implementation of all the algorithms regularly. 
+## Kindly do take a look and feel free to address any issues or modifications.
 
 ## Algorithms Implemented
 
