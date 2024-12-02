@@ -12,7 +12,7 @@ Linear regression is a fundamental algorithm in machine learning, used for predi
 
 - **File**: `LinearRegression.ipynb`
 - **Key Concepts**: Approximation, Gradient Descent, Least Squares, Model Fitting
-- **Worked Example**:
+- **Results**:
 
 
 <p align="center">
@@ -87,6 +87,20 @@ LDA is a dimensionality reduction technique used to find the linear combination 
 - **File**: `LinearDiscriminantAnalysis.ipynb`
 - **Key Concepts**: Between-Class Variance, Within-Class Variance, Eigenvectors
 
+## Installation
+
+To run this notebook, ensure the following prerequisites are installed:
+- Scikit-Learn
+- NumPy
+- Matplotlib
+
+Install the required dependencies with:
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 # How to Use
 
 1. Clone the repository:
@@ -105,7 +119,7 @@ LDA is a dimensionality reduction technique used to find the linear combination 
   </b>
 </p>
 
-
+---
 
 
 
