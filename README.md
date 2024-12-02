@@ -2,6 +2,8 @@
 
 This repository contains simple and actual implementations of various machine learning algorithms from scratch. The goal is to provide clear, understandable code and explanations for these fundamental algorithms, helping learners better understand how they work internally.
 
+## I will be updating implementation of all the algorithms regularly. Kindly do take a look and feel free to address any issues or modifications. Thank you...
+
 ## Algorithms Implemented
 
 ### 1. **Linear Regression**
@@ -84,8 +86,6 @@ LDA is a dimensionality reduction technique used to find the linear combination 
 - **File**: `LinearDiscriminantAnalysis.ipynb`
 - **Key Concepts**: Between-Class Variance, Within-Class Variance, Eigenvectors
 
-
-## I will be updating implementation of all the algorithms regularly. Kindly do take a look and feel free to address any issues or modifications. Thank you...
 
 <p align="center">
   <b align="center">
