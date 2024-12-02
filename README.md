@@ -10,9 +10,8 @@ Linear regression is a fundamental algorithm in machine learning, used for predi
 - **File**: `LinearRegression.ipynb`
 - **Key Concepts**: Approximation, Gradient Descent, Least Squares, Model Fitting
 - **Worked Example**:
-<p align="denter">
-  ![Linear Regression Image](images/linear_reg.png)
-<p>
+![Linear Regression Image](images/linear_reg.png)
+
 
 ### 2. **Logistic Regression**
 Logistic regression is used for binary classification tasks. It models the probability of an event occurring based on input features. This implementation uses the sigmoid function to output probabilities.
