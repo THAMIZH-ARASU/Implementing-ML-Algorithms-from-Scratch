@@ -11,7 +11,8 @@ Linear regression is a fundamental algorithm in machine learning, used for predi
 - **Key Concepts**: Approximation, Gradient Descent, Least Squares, Model Fitting
 - **Worked Example**:
 
-![Linear Regression Image](images/linear_reg.png)
+
+<img src="images/linear_reg.png" alt="Linear Regression Image" align="center">
 
 
 ### 2. **Logistic Regression**
