@@ -10,7 +10,7 @@ This repository contains simple and actual implementations of various machine le
 Linear regression is a fundamental algorithm in machine learning, used for predicting continuous values based on the linear relationship between input variables and the target variable. In this implementation, we calculate the parameters (slope and intercept) using the least squares method.
 
 - **File**: `LinearRegression.ipynb`
-- **Key Concepts**: Approximation, Gradient Descent, Least Squares, Model Fitting
+- **Key Concepts**: Approximation, Gradient Descent, Least Squares, Model Fitting, etc...
 - **Results**:
 
 
@@ -24,7 +24,13 @@ Linear regression is a fundamental algorithm in machine learning, used for predi
 Logistic regression is used for binary classification tasks. It models the probability of an event occurring based on input features. This implementation uses the sigmoid function to output probabilities.
 
 - **File**: `LogisticRegression.ipynb`
-- **Key Concepts**: Sigmoid Function, Cross-Entropy Loss, Gradient Descent
+- **Key Concepts**: Sigmoid Function, Cross-Entropy Loss, Gradient Descent, ROC curve & AUC, etc...
+- **Results**:
+
+
+<p align="center">
+  <img src="images/conf_mat_logistic.png" alt="Logistic Regression Image">
+</p>
 
 ### 3. **Naive Bayes**
 Naive Bayes is a probabilistic classifier based on Bayes’ Theorem, which assumes that features are independent given the class. It is especially useful for text classification and spam filtering.
