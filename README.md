@@ -37,6 +37,12 @@ Naive Bayes is a probabilistic classifier based on Bayes’ Theorem, which assum
 
 - **File**: `NaiveBayes.ipynb`
 - **Key Concepts**: Conditional Probability, Bayes' Theorem, Gaussian Naive Bayes
+- **Results**:
+
+
+<p align="center">
+  <img src="images/accuracy_naive_bayes.png" alt="Naive Bayes Image">
+</p>
 
 ### 4. **K-Nearest Neighbors (KNN)**
 KNN is a simple, instance-based learning algorithm where the class of a data point is determined by the majority class of its neighbors. The algorithm is lazy, meaning it doesn’t learn a model but makes decisions based on the proximity to labeled points.
