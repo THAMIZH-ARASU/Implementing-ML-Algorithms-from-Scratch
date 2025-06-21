@@ -35,7 +35,7 @@ Logistic regression is used for binary classification tasks. It models the proba
 ### 3. **Naive Bayes**
 Naive Bayes is a probabilistic classifier based on Bayes’ Theorem, which assumes that features are independent given the class. It is especially useful for text classification and spam filtering.
 
-- **File**: `naiveBayes.ipynb`
+- **File**: `NaiveBayes.ipynb`
 - **Key Concepts**: Conditional Probability, Bayes' Theorem, Gaussian Naive Bayes
 
 ### 4. **K-Nearest Neighbors (KNN)**
