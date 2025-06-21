@@ -13,7 +13,6 @@ Linear regression is a fundamental algorithm in machine learning, used for predi
 - **Key Concepts**: Approximation, Gradient Descent, Least Squares, Model Fitting, etc...
 - **Results**:
 
-
 <p align="center">
   <img src="images/linear_reg.png" alt="Linear Regression Image">
 </p>
@@ -27,7 +26,6 @@ Logistic regression is used for binary classification tasks. It models the proba
 - **Key Concepts**: Sigmoid Function, Cross-Entropy Loss, Gradient Descent, ROC curve & AUC, etc...
 - **Results**:
 
-
 <p align="center">
   <img src="images/conf_mat_logistic.png" alt="Logistic Regression Image">
 </p>
@@ -39,7 +37,6 @@ Naive Bayes is a probabilistic classifier based on Bayes’ Theorem, which assum
 - **Key Concepts**: Conditional Probability, Bayes' Theorem, Gaussian Naive Bayes
 - **Results**:
 
-
 <p align="center">
   <img src="images/accuracy_naive_bayes.png" alt="Naive Bayes Image">
 </p>
@@ -49,6 +46,11 @@ KNN is a simple, instance-based learning algorithm where the class of a data poi
 
 - **File**: `KNN.ipynb`
 - **Key Concepts**: Euclidean Distance, Majority Voting, Lazy Learning
+- **Results**:
+
+<p align="center">
+  <img src="images/decision_boundary_knn.png" alt="KNN Image">
+</p>
 
 ### 5. **Perceptron**
 The perceptron is a linear classifier and the foundation of neural networks. It updates its weights through an iterative process to classify linearly separable data.
